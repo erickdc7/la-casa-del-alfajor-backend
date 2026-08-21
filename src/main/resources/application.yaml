@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: la-casa-del-alfajor-backend
