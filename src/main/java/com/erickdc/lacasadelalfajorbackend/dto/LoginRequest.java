@@ -1,0 +1,8 @@
+package com.erickdc.lacasadelalfajorbackend.dto;
+
+public record LoginRequest(
+        String email,
+        String password,
+        boolean rememberMe
+) {
+}
